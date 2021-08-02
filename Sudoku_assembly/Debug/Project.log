@@ -1,0 +1,15 @@
+﻿Build started 4/28/2020 1:14:24 AM.
+     1>Project "D:\FCIS_ASU     2021\3 Year 2019_2020\Semester 1\New\Assembly\Sudoku\Sudoku_assembly\Project.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\USER\AppData\Local\Temp\tmp463e493ede4c477fa028adc130663517.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "E:\Teaching\Assembly 07\IrvineExamples" /W3 /errorReport:prompt  /Tamain.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\FCIS_ASU     2021\3 Year 2019_2020\Semester 1\New\Assembly\Sudoku\Sudoku_assembly\Debug\Project.exe" /NOLOGO /LIBPATH:"E:\Teaching\Assembly 07\IrvineExamples" user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\FCIS_ASU     2021\3 Year 2019_2020\Semester 1\New\Assembly\Sudoku\Sudoku_assembly\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\FCIS_ASU     2021\3 Year 2019_2020\Semester 1\New\Assembly\Sudoku\Sudoku_assembly\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\Project.res
+         Debug\main.obj
+         Project.vcxproj -> D:\FCIS_ASU     2021\3 Year 2019_2020\Semester 1\New\Assembly\Sudoku\Sudoku_assembly\Debug\Project.exe
+     1>Done Building Project "D:\FCIS_ASU     2021\3 Year 2019_2020\Semester 1\New\Assembly\Sudoku\Sudoku_assembly\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.22
