@@ -1,0 +1,2 @@
+# Sudoku-Using-Assembly-Language
+Sudoku is a popular Japanese puzzle game based on the logical placement of numbers. Being a game of logic, Sudoku doesn’t require any calculation nor special math skills; all that is needed are brains and concentration. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid contains all of the digits from 1 to 9.
